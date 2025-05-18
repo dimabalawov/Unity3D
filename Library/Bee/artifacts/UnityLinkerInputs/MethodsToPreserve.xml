@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MenuScript">
+			<method name="OnContinueClick"/>
+			<method name="OnDefaultsClick"/>
+			<method name="OnEffectsValueChanged"/>
+			<method name="OnExitClick"/>
+			<method name="OnLongEffectsChanged"/>
+			<method name="OnMusicValueChanged"/>
+			<method name="OnMuteChanged"/>
+		</type>
+	</assembly>
+</linker>
